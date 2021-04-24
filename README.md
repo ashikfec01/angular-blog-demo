@@ -1,1 +1,1 @@
-# Wrapkit-Angular-Blog# angular-blog-demo
+angular-blog-demo
